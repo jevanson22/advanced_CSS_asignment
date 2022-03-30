@@ -99,9 +99,16 @@ nav h2 {
 }
 
 #future_projects {
+    height: 300px;
+    width: 300px;
+    margin: 10px;
     color: #5D8578;
-    display:flex;
-    flex-wrap: wrap;
+    display: inline-flex;
+    background-color: #C48E50;
+    justify-content: center;
+    border-radius: 25px;
+    font-size: larger;
+    font-weight: 700;
 }
 
 footer img {
